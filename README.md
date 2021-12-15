@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @alvarompywf
-- 👀 I’m interested in javaScript, PHP and MySQL.
-- 🌱 I’m currently learning Java, HTML, SQL.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in javaScript's frameworks, SCSS and DataBases.
+- 🌱 I’m currently learning JS, php, react.
 - 📫 How to reach me alvaromepa@gmail.com
 
 <!---
