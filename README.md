@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alvarompywf
-- 👀 I’m interested in javaScript's frameworks, SCSS and DataBases.
-- 🌱 I’m currently learning JS, php, react.
+- 👀 I’m interested in javaScript's framework's JS and web design.
+- 🌱 I’m currently learning JS, php, html and CSS.
 - 📫 How to reach me alvaromepa@gmail.com
 
 <!---
