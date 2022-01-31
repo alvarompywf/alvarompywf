@@ -1,4 +1,4 @@
-![A](Users/alvaromenaparra/Desktop/pixlr-bg-result.png "titulo")
+![A](Users/alvaromenaparra/Desktop/pixlr-bg-result.png)
 
 - 👋 Hi, I’m @alvarompywf
 - 👀 I’m interested in javaScript's framework's JS and web design.
