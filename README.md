@@ -1,4 +1,4 @@
-![A](https://www.canva.com/design/DAE3DvOEvNs/SRpwxeojVICz4JVUpirtCw/view?utm_content=DAE3DvOEvNs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink "titulo")
+![A](Users/alvaromenaparra/Desktop/pixlr-bg-result.png "titulo")
 
 - 👋 Hi, I’m @alvarompywf
 - 👀 I’m interested in javaScript's framework's JS and web design.
