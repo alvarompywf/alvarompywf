@@ -1,4 +1,4 @@
-![A](AlvaroRepoDef.png)
+![A](alvaroRepoDef.png)
 
 - 👋 Hi, I’m @alvarompywf
 - 👀 I’m interested in javaScript's framework's JS and web design.
