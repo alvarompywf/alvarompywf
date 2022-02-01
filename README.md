@@ -1,6 +1,6 @@
 ### Hi, I'm Álvaro 👨‍💻 
 
-![A](alvaroRepoDef.png)
+![alvarompywf](alvaroRepoDef.png)
 ___________________________________________________________________________________________________________________________________________________________________
 
 ```js
@@ -17,6 +17,6 @@ const alvarompywf = {
 
 ### You can find me 🗺️ : 
 
-- Twitter 🐦 (https://twitter.com/alvaritoDev)
-- Linkedin 👨‍💻 (https://www.linkedin.com/in/alvaroMenaParra/)
-- Mail 💌 (mailto:alvaromepa@gmail.com)
+- [Twitter 🐦 ](https://twitter.com/alvaritoDev)
+- [Linkedin 👨‍💻 ](https://www.linkedin.com/in/alvaroMenaParra/)
+- [Mail 💌 ](mailto:alvaromepa@gmail.com)
