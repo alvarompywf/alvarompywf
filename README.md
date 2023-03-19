@@ -5,18 +5,17 @@ ________________________________________________________________________________
 
 ```js
 const alvarompywf = {
-  
-  code:[Js, HTML5, CSS3, Angular, MJML],
-  studies: [Web_Applications_Development],
-  SO: [MacOS, Ubuntu, Windows],
-  interests: [ ResponseDesign, Minimalist_Design, Mobile_Development],
+  code:[TS, Angular, SCSS, HTML],
+  studies: [ Web_dev ],
+  SO: [MacOS, Ubuntu],
   Languages: [Spanish, English]
-
 }
 ```
 
-### You can find me 🗺️ : 
+### You can find me on 🗺️ :
 
+
+- [Website 🌏](https://alvaromena.dev)
 - [Twitter 🐦 ](https://twitter.com/alvaritoDev)
 - [Linkedin 👨‍💻 ](https://www.linkedin.com/in/alvaroMenaParra/)
 - [Mail 💌 ](mailto:alvaromepa@gmail.com)
