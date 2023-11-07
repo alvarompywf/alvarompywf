@@ -5,7 +5,7 @@ ________________________________________________________________________________
 
 ```js
 const alvarompywf = {
-  code:[Angular, TS, RxJS, Ionic, SCSS, HTML, NodeJS, ExpressJS & MySQL],
+  code:[Angular, TS, RxJS, Ionic, SCSS, HTML, NodeJS, ExpressJS, MySQL],
   studies: [ Web_dev ],
   SO: [MacOS, Ubuntu, Windows],
   Languages: [Spanish, English]
