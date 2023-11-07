@@ -1,6 +1,7 @@
 ### Hi, I'm Álvaro 👨‍💻 
 
-![mena_banner](https://github.com/alvarompywf/alvarompywf/assets/85018038/cc8c25ed-1c3b-4918-8934-79b44e2e0fdc)
+
+![mena_banner](https://github.com/alvarompywf/alvarompywf/assets/85018038/e7ffae85-8751-43c4-b1e7-fe9bc19c16ce)
 
 ___________________________________________________________________________________________________________________________________________________________________
 
